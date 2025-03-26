@@ -9,7 +9,7 @@ The tool is intended for educational and informational purposes only. It helps t
 Thanks and credits to CloudSEK for https://exposure.cloudsek.com/.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/zer0lightning/Oracle-Exposure-Check/refs/heads/main/screenshot-oracle-exposure.PNG" alt="Alt text" width="900"/>
+<img src="https://raw.githubusercontent.com/zer0lightning/Oracle-Exposure-Check/refs/heads/main/screenshot-oracle-exposure-bin.PNG" alt="Alt text" width="900"/>
 
 ## Oracle Incident
 
