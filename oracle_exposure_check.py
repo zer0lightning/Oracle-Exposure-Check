@@ -22,8 +22,9 @@ def set_terminal_title():
 def print_tool_info():
     print(Fore.CYAN + Style.BRIGHT + "-" * 70)
     print(Fore.LIGHTGREEN_EX + "Oracle Exposure Check")
-    print(Fore.LIGHTGREEN_EX + "Author: Lewis Saludo")
+    print(Fore.LIGHTGREEN_EX + "Author: Lewis Saludo | X: @_zer0lightning")
     print(Fore.LIGHTGREEN_EX + "Version: 1.0")
+    print(Fore.LIGHTGREEN_EX + "Github: https://github.com/zer0lightning/")
     print(Fore.LIGHTGREEN_EX + "Credits: CloudSEK [https://exposure.cloudsek.com/]")
     print(Fore.CYAN + Style.BRIGHT + "-" * 70)
     print(Fore.CYAN + "This tool is provided 'as-is' for educational and informational purposes only.")
