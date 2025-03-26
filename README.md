@@ -8,6 +8,7 @@ The tool is intended for educational and informational purposes only. It helps t
 
 Thanks and credits to CloudSEK for https://exposure.cloudsek.com/.
 
+<img src="https://raw.githubusercontent.com/zer0lightning/Oracle-Exposure-Check/refs/heads/main/screenshot-oracle-exposure.PNG" alt="Alt text" width="900"/>
 ## Oracle Incident
 
 In March 2025, security researchers from CloudSEK uncovered evidence of a significant data breach involving Oracle Cloud. A hacker, identified as "rose87168," claimed to have exfiltrated over 6 million records from Oracle Cloud's Single Sign-On (SSO) and Lightweight Directory Access Protocol (LDAP) systems, affecting more than 140,000 tenants. The compromised data includes Java KeyStore (JKS) files, encrypted SSO passwords, key files, and enterprise manager JPS keys. 
