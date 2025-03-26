@@ -2,7 +2,7 @@
 
 ## Description
 
-Oracle Exposure Check (python) is a tool that queries the CloudSEK API to determine whether a given domain is affected by Oracle-related vulnerabilities. The tool allows users to check a single domain or scan multiple domains from a list, and it automatically generates a CSV report of the results.
+Oracle Exposure Check (python) is a tool that queries the CloudSEK API to determine whether a given domain is affected by Oracle-related breach reported by CloudSEK. The tool allows users to check a single domain or scan multiple domains from a list, and it automatically generates a CSV report of the results.
 
 The tool is intended for educational and informational purposes only. It helps to identify domains potentially impacted by Oracle vulnerabilities, but it should be used responsibly, and you must ensure you have proper authorization before scanning any domains.
 
