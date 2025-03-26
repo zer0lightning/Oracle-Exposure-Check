@@ -50,8 +50,8 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/oracle-breach-checker.git
-cd oracle-breach-checker
+git clone https://github.com/zer0lightning/oracle-exposure-check.git
+cd oracle-exposure-check
 ```
 
 2. Install the required dependencies:
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 3. Run the tool:
 
 ```bash
-python oracle_breach_checker.py
+python oracle_exposure_check.py
 ```
 
 ---
@@ -126,7 +126,7 @@ To contribute:
 
 ## Author
 
-- **Lewis Saludo** - [Your GitHub Profile](https://github.com/yourusername)
+- **Lewis Saludo** - [Your GitHub Profile](https://github.com/zer0lightning)
 
 ---
 
